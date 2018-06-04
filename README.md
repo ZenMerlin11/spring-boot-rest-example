@@ -20,6 +20,6 @@ If you do not want to install Maven, you can also run `mvnw spring-boot:run` ins
 
 ## Usage
 
-![UI Screenshot](ui-screenshot.png)
+![UI Screenshot](./ui-screenshot.png)
 
 Enter a coffee order description, customer email address, size, flavor, and caffeine dosage level. Click `Submit` to add the order to the database and update pending orders. Click the checkbox or row of any of the pending orders to deliver the orders and delete from the database. Click `Reset` to clear the form.
